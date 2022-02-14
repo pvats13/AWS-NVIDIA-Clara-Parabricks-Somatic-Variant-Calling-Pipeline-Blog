@@ -1,4 +1,4 @@
-# Aws NVIDIA Clara Parabricks Somatic Variant Calling Pipeline Blog
+# AWS NVIDIA Clara Parabricks Somatic Variant Calling Pipeline Blog
 Data download required to run NVIDIA Clara Parabricks Somatic Variant Calling Pipeline.
 
 ## Download publicly available BAM files using wget
